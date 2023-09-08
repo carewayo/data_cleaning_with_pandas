@@ -1,0 +1,419 @@
+,Unnamed: 0,Employee,Travel Start Date,Travel End Date,Actual Total Expenses,Purpose Of Travel,State,City
+0,0,Aaron Salter,2017-05-31,2017-06-02,644.1,Conference, MD,Ocean City
+1,1,Abigail Ratnofsky,2016-01-24,2016-01-29,2962.7,Conference, CA,San Diego
+2,2,Adam Kisthardt,2018-10-04,2018-10-09,1891.19,Conference, FL,Orlando
+3,3,Adam P. Jones,2016-06-19,2016-06-21,324.36,Conference, MD,Ocean City
+4,4,Alan Butsch,2019-11-19,2019-11-22,2141.51,Conference, CA,San Diego
+5,5,Alberto Hook,2016-04-17,2016-04-22,1856.49,Conference, TX,Austin
+6,6,Alberto Rein,2019-09-08,2019-09-12,330.08,Conference, MD,Ocean City
+7,7,Alison Danielson,2019-09-23,2019-09-26,2346.12,Training, CA,Palm Springs
+8,8,Alison Dollar,2015-06-17,2015-06-19,964.52,Conference, MD,Ocean City
+9,9,Alison Wakefield,2015-06-28,2015-06-30,1050.08,Conference, MD,Ocean City
+10,10,Alpa Vaghani,2019-08-13,2019-08-17,1876.97,Conference, MD,Ocean City
+11,11,Alysoun Mclaughlin,2019-07-11,2019-07-16,2020.83,Conference, NV,Las Vegas
+12,12,Amanda Konkus,2017-06-05,2017-06-09,2288.26,Conference, FL,Orlando
+13,13,Amber Ion,2018-10-17,2018-10-19,348.02,Conference, MD,Ocean City
+14,14,Amy Masson,2019-03-12,2019-03-15,567.07,Conference, MD,Ocean City
+15,15,Amy Samman,2015-08-12,2015-08-15,1370.53,Conference, MD,Ocean City
+16,16,Ana Hester,2018-07-02,2018-07-07,2101.76,Conference, CA,San Diego
+17,17,Andrea Hennesy,2019-10-01,2019-10-04,348.51,Conference, MD,Ocean City
+18,18,Andrew Bock,2016-03-01,2016-03-04,1369.4,Conference, NV,Las Vegas
+19,19,Angela Wiley-Jones,2015-10-04,2015-10-07,750.65,Conference, MD,Ocean City
+20,20,Anne Denicoff,2016-12-05,2016-12-08,1014.6,Conference, GA,Atlanta
+21,21,Anthony Ramirez,2019-08-21,2019-08-24,586.08,Conference, FL,Orlando
+22,22,Ashley Robinson,2018-01-11,2018-01-13,1372.12,Conference, CA,San Diego
+23,23,Atiquilla Panjshiri,2016-09-21,2016-09-24,850.36,Conference, MD,Ocean City
+24,24,Balamurugan Vellaiappan,2016-05-14,2016-05-21,3102.49,Conference, TX,Austin
+25,25,Barbara Natoli,2018-11-07,2018-11-11,213.0,Conference, NV,Las Vegas
+26,26,Barbara Natoli,2019-08-21,2019-08-25,991.12,Conference, MD,Ocean City
+27,27,Barry Fuss,2015-09-23,2015-09-26,1029.17,Conference, MD,Ocean City
+28,28,Ben Kaufman,2018-11-04,2018-11-08,3875.07,Conference, NV,Las Vegas
+29,29,Ben Lo,2016-10-24,2016-10-26,82.5,Conference, MD,Ocean City
+30,30,Ben Stevenson,2015-11-04,2015-11-06,402.77,Conference, MD,Ocean City
+31,31,Benjamin Kaufman,2019-11-10,2019-11-14,3553.84,Conference, NV,Las Vegas
+32,32,Bhavin Desai,2018-09-19,2018-09-21,681.48,Conference, MD,Ocean City
+33,33,Bill Ferretti,2018-08-15,2018-08-16,454.12,Conference, MD,Ocean City
+34,34,Bill Ferretti,2019-08-14,2019-08-15,353.22,Conference, MD,Ocean City
+35,35,Bill Mcquiggan,2017-03-26,2017-03-31,2612.28,Other, NV,Las Vegas
+36,36,Bill Powell,2019-03-25,2019-03-26,78.0,Conference, MD,Ocean City
+37,37,Billy Usilton,2017-10-18,2017-10-20,277.07,Conference, MD,Ocean City
+38,38,Biodun Ayo-Durojaiye,2016-04-08,2016-04-14,3733.3,Conference, FL,Orlando
+39,39,Brandon Patrick,2018-03-19,2018-03-20,116.0,Conference, MD,Ocean City
+40,40,Brandon Pellecchia,2019-03-25,2019-03-26,78.0,Conference, MD,Ocean City
+41,41,Brian Copley,2018-09-19,2018-09-21,795.35,Conference, MD,Ocean City
+42,42,Bruce E. Johnston,2015-09-23,2015-09-26,1009.79,Conference, MD,Ocean City
+43,43,Bruce Gibbs,2017-10-18,2017-10-20,277.07,Conference, MD,Ocean City
+44,44,Bryan Forney,2015-10-28,2015-10-30,498.07,Training, MD,Ocean City
+45,45,Thomas Jordan,2018-07-06,2018-07-26,9973.5,Training, AK,Boston
+46,46,Caitlin Bellamy,2018-04-23,2018-04-27,1592.52,Conference, NV,Las Vegas
+47,47,Calvin Jones,2019-08-05,2019-08-07,1487.68,Vendor, CA,Los Angeles
+48,48,Casey Diaz,2019-03-31,2019-04-06,3450.07,Training, TX,Austin
+49,49,Cassandra Olney,2017-10-18,2017-10-20,277.07,Conference, MD,Ocean City
+50,50,Cassandra Onley,2016-09-18,2016-09-21,2849.13,Conference, CO,Westminster
+51,51,Catherine Brewer,2018-10-28,2018-11-02,3283.52,Training, TX,Austin
+52,52,Catherine Brewer,2017-08-24,2017-08-27,4925.24,Other, FL,Orlando
+53,53,Chase Fabrizio,2019-05-06,2019-05-10,807.84,Training, CA,San Diego
+54,54,Chris Daniel,2017-10-01,2017-10-05,5943.98,Conference, FL,Orlando
+55,55,Chris Moe,2018-04-10,2018-04-15,3005.52,Training, CA,San Diego
+56,56,Christina Contreras,2016-09-21,2016-09-24,519.56,Conference, MD,Ocean City
+57,57,Christopher  Johnson,2018-08-05,2018-08-11,1576.72,Conference, NV,Las Vegas
+58,58,Christopher  Rivers,2019-03-03,2019-03-09,1637.98,Conference, NV,Las Vegas
+59,59,Christopher Conklin,2018-08-15,2018-08-18,1623.52,Conference, MD,Ocean City
+60,60,Charity Johnson,2016-08-14,2016-08-19,1950.44,Conference, FL,Orlando
+61,61,Christopher Kemble,2018-10-29,2018-10-31,82.5,Conference, MD,Ocean City
+62,62,Christopher Stroup,2019-11-10,2019-11-14,3437.26,Conference, NV,Las Vegas
+63,63,Chuanyin Dong,2018-05-21,2018-05-25,1329.45,Training, FL,Orlando
+64,64,Chuck Short,2015-08-12,2015-08-14,994.88,Conference, MD,Ocean City
+65,65,Claudia Canales,2015-08-12,2015-08-15,1465.34,Conference, MD,Ocean City
+66,66,Claudia Rodriguez,2017-10-19,2017-10-20,145.16,Conference, MD,Ocean City
+67,67,Cody Fields,2015-11-16,2015-11-19,586.0,Conference, MD,Ocean City
+68,68,Craig Cupaiuolo,2017-01-13,2017-01-15,501.86,Other, FL,Orlando
+69,69,Dan Berkman,2016-05-31,2016-06-02,503.23,Conference, MD,Ocean City
+70,70,Dan Dunn-Sod,2019-05-05,2019-05-09,1496.0,Training, NC,Charlotte
+71,71,Dan Gunn,2019-09-29,2019-10-03,1525.76,Conference, CO,Aurora
+72,72,Dana Stroman,2019-06-16,2019-06-19,1619.66,Conference, NV,Las Vegas
+73,73,Dana Williams,2017-09-18,2017-09-21,1266.43,Conference, GA,Atlanta
+74,74,Daniel Helton,2017-05-22,2017-05-25,1496.04,Other, NV,Las Vegas
+75,75,Daniel M. Sheridan,2017-09-21,2017-09-22,399.8,Conference, MD,Ocean City
+76,76,Daniel Sheridan,2018-09-20,2018-09-21,406.19,Conference, MD,Ocean City
+77,77,Darlene Flynn,2015-09-28,2015-09-30,618.4,Conference, MD,Ocean City
+78,78,Darrell Foreman,2018-10-17,2018-10-19,348.02,Conference, MD,Ocean City
+79,79,Darren Crandell,2017-01-18,2017-01-21,2119.8,Conference, NV,Las Vegas
+80,80,Darren Crandell,2019-01-23,2019-01-26,1995.22,Conference, NV,Las Vegas
+81,81,Darryl Mcswain,2016-10-12,2016-10-16,2423.76,Conference, CA,San Diego
+82,82,Dave Anderson,2017-05-29,2017-06-02,1783.72,Conference, NV,Las Vegas
+83,83,Dave Ferragine,2019-03-25,2019-03-26,78.0,Conference, MD,Ocean City
+84,84,David  Anderson,2018-10-03,2018-10-09,3406.32,Other, FL,Orlando
+85,85,David Hinebaugh,2019-04-29,2019-05-03,152.5,Conference, CA,San Diego
+86,86,David Crow,2016-06-22,2016-06-24,870.64,Conference, MD,Ocean City
+87,87,David Malburg,2017-11-10,2017-11-12,788.16,Training, NC,Charlotte
+88,88,David Paugh,2018-09-21,2018-09-24,906.31,Conference, MD,Ocean City
+89,89,David Prange,2017-01-13,2017-01-15,501.86,Other, FL,Orlando
+90,90,David Yoon,2015-11-19,2015-11-19,248.46,Other, MA,Cambridge
+91,91,Deana Mackie,2017-11-12,2017-11-17,1903.95,Conference, FL,Orlando
+92,92,Deborah Hamer,2019-05-21,2019-05-24,821.24,Conference, MD,Ocean City
+93,93,Deborah Langford,2016-10-16,2016-10-19,2027.42,Other, CA,San Diego
+94,94,Deborah Whims,2016-09-17,2016-09-21,2662.71,Conference, CO,Westminster
+95,95,Derrick Davis,2019-03-25,2019-03-26,78.0,Training, MD,Ocean City
+96,96,Dicle Firat,2018-10-13,2018-10-18,2808.96,Training, NV,Las Vegas
+97,97,Dieter Klinger,2016-10-15,2016-10-21,741.25,Conference, FL,Orlando
+98,98,Dimitry Ruvin,2019-08-04,2019-08-09,2929.11,Conference, TX,Austin
+99,99,Dimitry Ruvin,2017-11-26,2017-12-01,2195.32,Other, NV,Las Vegas
+100,100,Dinesh Patil,2016-10-12,2016-10-19,2736.58,Conference, CA,San Diego
+101,101,Dmitry Ruvin,2015-12-07,2015-12-11,1135.6,Conference, NV,Las Vegas
+102,102,Donna Keating,2015-09-07,2015-09-12,2089.95,Conference, CA,San Diego
+103,103,Donna T. Keating,2016-09-18,2016-09-23,2206.26,Conference, TX,Austin
+104,104,Dorshae Demby,2019-10-23,2019-10-25,716.67,Conference, MD,Ocean City
+105,105,Doug Miller,2019-03-25,2019-03-26,78.0,Training, MD,Ocean City
+106,106,Earl Stoddard,2018-05-29,2018-06-01,303.27,Conference, MD,Ocean City
+107,107,Ed Pallas,2018-02-17,2018-02-21,3481.8,Other, FL,Orlando
+108,108,Edward Pallas,2017-08-25,2017-08-30,5935.72,Other, FL,Orlando
+109,109,Elena Dove,2018-04-01,2018-04-05,1949.49,Conference, GA,Atlanta
+110,110,Emil Wolanin,2019-07-20,2019-07-24,2382.37,Conference, TX,Austin
+111,111,Emilie Crown,2016-08-10,2016-08-13,1005.92,Conference, FL,Orlando
+112,112,Eric Glass,2019-08-04,2019-08-09,2874.23,Conference, TX,Austin
+113,113,Eric Bunting,2019-03-25,2019-03-26,78.0,Conference, MD,Ocean City
+114,114,Eric Monroe,2019-03-25,2019-03-26,78.0,Conference, MD,Ocean City
+115,115,Eric Mercurio,2017-01-18,2017-01-21,1952.14,Conference, NV,Las Vegas
+116,116,Erin Mercurio,2019-01-23,2019-01-26,2023.68,Conference, NV,Las Vegas
+117,117,Ernest Krouse,2015-12-03,2015-12-04,717.84,Other, FL,Orlando
+118,118,Esther Bowring,2018-08-15,2018-08-18,1528.41,Conference, MD,Ocean City
+119,119,Eugene Curtis,2016-04-25,2016-05-06,5579.14,Training, FL,Orlando
+120,120,Evan Clarke,2018-11-05,2018-11-08,595.42,Conference, MD,Ocean City
+121,121,Evette Lesesne,2016-11-09,2016-11-13,1669.26,Conference, GA,Atlanta
+122,122,Frank Springer,2019-08-04,2019-08-09,2880.19,Conference, TX,Austin
+123,123,Freeman Springer,2019-03-31,2019-04-06,3440.36,Training, TX,Austin
+124,124,Frank Stone,2016-05-31,2016-06-03,614.75,Conference, MD,Ocean City
+125,125,Gail M. Lucas,2015-10-13,2015-10-16,2488.94,Conference, CA,San Diego
+126,126,Gaila Compton,2019-09-25,2019-09-27,690.0,Not Provided, MD,Ocean City
+127,127,Gary Baumgarten,2017-10-18,2017-10-20,277.07,Conference, MD,Ocean City
+128,128,Gary Cooper,2019-11-10,2019-11-14,3367.75,Conference, NV,Las Vegas
+129,129,Gary Guard,2016-10-24,2016-10-26,82.5,Conference, MD,Ocean City
+130,130,Gary Stafford,2019-09-08,2019-09-11,1920.32,Conference, CA,San Diego
+131,131,Gary Walker,2016-10-24,2016-10-26,82.5,Conference, MD,Ocean City
+132,132,George Muste,2015-10-13,2015-10-16,2075.95,Conference, CA,San Diego
+133,133,Georgia Frazier,2019-02-05,2019-02-09,2091.41,Conference, FL,Orlando
+134,134,Gerry Mcfarland,2019-03-25,2019-03-26,78.0,Conference, MD,Ocean City
+135,135,Gizachew Tiruneh,2019-09-25,2019-09-27,728.34,Conference, MD,Ocean City
+136,136,Glenda Joseph,2018-05-16,2018-05-18,486.55,Other, MD,Ocean City
+137,137,Grant Lee,2017-01-16,2017-01-21,1475.33,Other, NV,Las Vegas
+138,138,Greg  Woodman,2019-05-05,2019-05-19,1926.13,Training, NC,Charlotte
+139,139,Greg Kirschner,2018-10-28,2018-11-02,2929.33,Training, TX,Austin
+140,140,Greg James,2019-05-30,2019-06-01,1073.59,Conference, CA,San Diego
+141,141,Greg Crown,2016-09-07,2016-09-10,1599.98,Conference, CA,Los Angeles
+142,142,Greg Woodman,2017-05-22,2017-05-26,1052.67,Other, NC,Charlotte
+143,143,Gregory Bryant,2018-09-18,2018-09-22,643.51,Conference, MD,Ocean City
+144,144,Gregory Lawrence,2017-03-05,2017-03-09,2209.63,Conference, NV,Las Vegas
+145,145,Gregory Woodman,2018-02-20,2018-02-24,1885.46,Conference, NC,Charlotte
+146,146,Harold Elliot,2018-02-19,2018-02-23,265.5,Conference, NC,Charlotte
+147,147,Heather Black,2016-11-13,2016-11-19,2888.16,Conference, FL,Orlando
+148,148,Heather Elliott,2019-06-23,2019-06-25,749.22,Conference, MD,Ocean City
+149,149,Heather Johnson,2019-04-29,2019-05-03,200.5,Conference, CA,San Diego
+150,150,Hengxin Chin,2017-10-29,2017-11-02,312.44,Training, MD,Ocean City
+151,151,Iacoviello Ian,2018-04-01,2018-04-05,1949.49,Conference, GA,Atlanta
+152,152,Ives-Didier N'Kodia,2016-10-24,2016-10-26,82.5,Conference, MD,Ocean City
+153,153,Thomas Manger,2015-09-13,2015-09-16,275.0,Conference, MD,Ocean City
+154,154,Jacqueline Earp,2019-09-25,2019-09-27,688.02,Conference, MD,Ocean City
+155,155,James Brown,2018-10-03,2018-10-09,3499.4,Conference, FL,Orlando
+156,156,James Donaldson,2018-10-04,2018-10-05,63.22,Conference, MD,Ocean City
+157,157,James Graham,2019-04-07,2019-04-11,1996.4,Conference, NV,Las Vegas
+158,158,James H Mcclelland,2017-05-30,2017-06-01,540.69,Conference, MD,Ocean City
+159,159,James Lee,2016-10-24,2016-10-26,82.5,Conference, MD,Ocean City
+160,160,James Mcclelland,2016-05-31,2016-06-03,646.81,Conference, MD,Ocean City
+161,161,James P Graham,2017-04-23,2017-04-27,1768.57,Vendor, NV,Las Vegas
+162,162,James Reed,2017-01-13,2017-01-15,589.3,Other, FL,Orlando
+163,163,James Rudnick,2018-03-19,2018-03-20,181.2,Conference, MD,Ocean City
+164,164,James Ryan,2015-09-29,2015-10-02,1134.68,Conference, MD,Ocean City
+165,165,James Sawyer,2017-06-25,2017-06-28,1262.65,Conference, MD,Ocean City
+166,166,James Walls,2015-11-16,2015-11-19,610.9,Conference, MD,Ocean City
+167,167,Jamie Baltrosky,2018-01-11,2018-01-13,1774.92,Conference, CA,San Diego
+168,168,Jamie Cooke,2019-10-15,2019-10-17,1874.81,Vendor, CA,Los Angeles
+169,169,Janet Quarcoo,2018-05-21,2018-05-27,1061.45,Training, FL,Orlando
+170,170,Janice Mattheson,2017-02-12,2017-02-18,1810.29,Training, CA,Los Angeles
+171,171,Jason Giza,2018-02-19,2018-02-23,241.5,Conference, NC,Charlotte
+172,172,Jay Blake,2018-01-29,2018-02-01,1569.21,Training, GA,Atlanta
+173,173,Jayme Derbyshire,2016-04-03,2016-04-06,1259.75,Conference, FL,Orlando
+174,174,Jeffery Ewart,2018-06-12,2018-06-16,1124.5,Conference, NV,Las Vegas
+175,175,Jeffrey George,2016-09-28,2016-09-29,326.16,Training, MD,Ocean City
+176,176,Jeffrey Knutsen,2017-09-20,2017-09-22,582.26,Conference, MD,Ocean City
+177,177,Jennifer Mcneal,2018-03-19,2018-03-20,220.87,Conference, MD,Ocean City
+178,178,Jeremy Smalley,2017-05-14,2017-05-19,2013.38,Other, FL,Orlando
+179,179,Jerry Quarshie,2017-06-07,2017-06-08,525.56,Conference, MD,Ocean City
+180,180,Jessica Marie Jones,2017-06-08,2017-06-08,291.23,Conference, MD,Ocean City
+181,181,Jhason Abuan,2019-05-19,2019-05-22,2045.27,Conference, CA,Los Angeles
+182,182,Jim Lynch,2017-06-13,2017-06-15,874.63,Conference, CA,San Diego
+183,183,Jim Sawyer,2016-06-26,2016-06-29,196.0,Other, MD,Ocean City
+184,184,Joana Conklin,2018-06-18,2018-06-21,1856.07,Conference, CA,Los Angeles
+185,185,Joanne Heller,2016-05-10,2016-05-14,1661.87,Conference, NV,Las Vegas
+186,186,John Bentley,2019-05-06,2019-05-10,1417.89,Training, CA,San Diego
+187,187,John Wagner,2018-11-05,2018-11-08,595.42,Conference, MD,Ocean City
+188,188,John Arsenault,2019-03-25,2019-03-26,78.0,Training, MD,Ocean City
+189,189,John Bentley,2018-06-12,2018-06-16,1119.22,Training, NV,Las Vegas
+190,190,John Castner,2018-02-03,2018-02-08,3607.61,Conference, FL,Orlando
+191,191,John Fitzgerald,2016-05-31,2016-06-03,345.25,Training, MD,Ocean City
+192,192,John Foster,2018-11-11,2018-11-16,1913.86,Conference, NV,Las Vegas
+193,193,John Freeburger,2018-03-04,2018-03-10,4626.29,Conference, FL,Orlando
+194,194,John Kinsley,2017-07-25,2017-07-29,2249.4,Conference, NC,Charlotte
+195,195,John O'Brien,2019-03-25,2019-03-26,78.0,Conference, MD,Ocean City
+196,196,Jon Hutchings,2019-09-25,2019-09-27,424.08,Conference, MD,Ocean City
+197,197,Jonathan Heiderich,2019-08-20,2019-08-24,1880.94,Conference, FL,Orlando
+198,198,Jordan Satinsky,2015-09-28,2015-10-01,969.8,Conference, FL,Orlando
+199,199,Jordan Young,2017-03-26,2017-03-31,1106.51,Other, NV,Las Vegas
+200,200,Jose Thommana,2018-06-03,2018-06-06,1965.01,Conference, FL,Orlando
+201,201,Joseph Carroll,2016-05-23,2016-05-26,1334.43,Conference, NC,Charlotte
+202,202,Joseph Beach,2016-05-20,2016-05-25,2564.9,Conference, ON,Toronto
+203,203,Joseph Sabolic,2017-12-17,2017-12-20,1760.59,Vendor, TX,Austin
+204,204,Joseph Webster,2019-08-14,2019-08-17,1961.93,Conference, MD,Ocean City
+205,205,Joshua Hart,2019-10-06,2019-10-13,2057.39,Training, CA,Los Angeles
+206,206,Joy Nurmi,2015-08-12,2015-08-15,1312.86,Conference, MD,Ocean City
+207,207,Joy Patil,2018-05-16,2018-05-18,486.55,Other, MD,Ocean City
+208,208,Jr. Frederick W. Enos,2015-09-27,2015-10-01,1853.25,Conference, GA,Atlanta
+209,209,Julia Dyer,2017-11-06,2017-11-09,578.88,Conference, MD,Ocean City
+210,210,Julia Gilroy,2016-01-24,2016-01-29,1997.0,Conference, CA,San Diego
+211,211,Kamran Farooq,2019-09-25,2019-09-27,822.75,Conference, MD,Ocean City
+212,212,Karen Carvajal,2018-04-21,2018-05-05,6278.13,Training, FL,Orlando
+213,213,Kate Thomas,2018-10-14,2018-10-18,2488.37,Conference, CA,Los Angeles
+214,214,Karla Tinker,2016-07-31,2016-08-04,1666.76,Conference, GA,Atlanta
+215,215,Kathleen Boucher,2015-08-12,2015-08-15,1404.57,Conference, MD,Ocean City
+216,216,Kathleen Ladana,2016-09-18,2016-09-21,2842.27,Conference, CO,Westminster
+217,217,Kathy Estrada,2017-05-22,2017-05-25,1459.19,Other, NV,Las Vegas
+218,218,Kathy Heissner,2017-10-18,2017-10-20,267.07,Conference, MD,Ocean City
+219,219,Katie Leggett,2017-08-27,2017-09-01,1807.95,Conference, NV,Las Vegas
+220,220,Keith Watkins,2015-10-28,2015-10-30,673.99,Training, MD,Ocean City
+221,221,Keith Young,2019-08-13,2019-08-14,575.26,Conference, MD,Ocean City
+222,222,Kelvin Thomas,2016-06-19,2016-06-21,624.06,Conference, MD,Ocean City
+223,223,Ken Weston,2016-06-09,2016-06-10,547.76,Conference, MD,Ocean City
+224,224,Kevin Baxter,2018-08-12,2018-08-18,1902.9,Conference, NV,Las Vegas
+225,225,Kevin Burns,2019-09-29,2019-10-03,1315.81,Conference, CO,Aurora
+226,226,Kevin Correa,2016-10-24,2016-10-26,82.5,Conference, MD,Ocean City
+227,227,Kevin Killeavy,2016-03-06,2016-03-07,1767.35,Vendor, CA,Los Angeles
+228,228,Kevin Parker,2016-05-23,2016-05-26,1418.4,Conference, NC,Charlotte
+229,229,Kevin Parker,2019-05-05,2019-05-09,1899.98,Training, NC,Charlotte
+230,230,Kimberly Williams,2019-05-16,2019-05-22,2984.49,Conference, CA,Los Angeles
+231,231,Kristina Laboy,2017-05-30,2017-06-02,709.12,Conference, MD,Ocean City
+232,232,Kyle Gable,2016-10-24,2016-10-26,82.5,Conference, MD,Ocean City
+233,233,Kyle Hanley,2019-09-25,2019-09-27,525.98,Conference, MD,Ocean City
+234,234,Kyle Lukacs,2019-09-25,2019-09-27,707.12,Conference, MD,Ocean City
+235,235,Kyle Santi,2019-03-24,2019-03-27,48.11,Conference, MD,Ocean City
+236,236,Laleh Shabani,2015-06-17,2015-06-19,946.97,Conference, MD,Ocean City
+237,237,Lanette Turner,2017-08-05,2017-08-12,2321.7,Conference, GA,Atlanta
+238,238,Lanjon Guzman,2018-04-15,2018-04-18,591.07,Conference, MD,Ocean City
+239,239,Laura Lanham,2018-04-11,2018-04-13,508.22,Training, MD,Ocean City
+240,240,Laura Dunken,2019-04-03,2019-04-05,591.48,Training, MD,Ocean City
+241,241,Laura Chief,2019-04-24,2019-04-26,761.93,Conference, FL,Orlando
+242,242,Laura Grey,2016-10-12,2016-10-19,4282.73,Conference, CA,San Diego
+243,243,Bill Ken,2019-01-13,2019-01-17,2541.01,Other, GA,Atlanta
+244,244,Laurie Reyes,2015-09-15,2015-09-17,1252.5,Conference, FL,Orlando
+245,245,Lawrence Caldwell,2016-10-24,2016-10-26,82.5,Conference, MD,Ocean City
+246,246,Lee Becknell,2017-07-09,2017-07-14,1317.5,Conference, VA,Norfolk
+247,247,Lenny Moore,2016-06-22,2016-06-24,1027.7,Conference, MD,Ocean City
+248,248,Leslie Woods,2019-02-22,2019-02-24,1485.79,Training, AL,Birmingham
+249,249,Lester Alcantara,2016-04-17,2016-04-21,1446.81,Conference, NV,Las Vegas
+250,250,Lisa Engestrom,2016-07-05,2016-07-07,560.0,Other, MD,Ocean City
+251,251,Lisa Henderson,2018-05-21,2018-05-27,945.26,Conference, FL,Orlando
+252,252,Lisa Jones,2017-06-07,2017-06-08,556.94,Conference, MD,Ocean City
+253,253,Lisa Killen,2017-04-09,2017-04-12,588.03,Conference, MD,Ocean City
+254,254,Lissa Bales,2015-09-30,2015-10-03,843.1,Conference, CA,San Diego
+255,255,Lissa Bales,2016-09-18,2016-09-21,258.64,Conference, MD,Ocean City
+256,256,Luther Reynolds,2016-10-15,2016-10-18,3749.92,Conference, CA,San Diego
+257,257,Mackall Heflin,2019-11-10,2019-11-14,3289.26,Conference, NV,Las Vegas
+258,258,Mackell Heflin,2018-11-04,2018-11-08,3869.06,Conference, NV,Las Vegas
+259,259,Mackell Heflin,2017-11-12,2017-11-19,2964.2,Conference, NV,Las Vegas
+260,260,Marc Yamada,2018-10-04,2018-10-06,1427.19,Conference, FL,Orlando
+261,261,Marcus Jones,2016-10-12,2016-10-16,3248.54,Conference, CA,San Diego
+262,262,Maria Rosario,2016-06-09,2016-06-10,539.44,Conference, MD,Ocean City
+263,263,Marianne Souders,2016-05-30,2016-06-04,982.02,Conference, MD,Ocean City
+264,264,Mario Mastrangelo,2016-04-18,2016-04-22,1421.02,Conference, GA,Atlanta
+265,265,Mel Williams,2019-06-23,2019-06-25,339.02,Conference, MD,Ocean City
+266,266,Marjorie Roher,2017-06-07,2017-06-08,443.23,Conference, MD,Ocean City
+267,267,Marjorie Williams,2017-06-04,2017-06-07,2141.13,Conference, NV,Las Vegas
+268,268,Magg Williams-Doria,2018-10-24,2018-10-26,658.08,Conference, MD,Ocean City
+269,269,Mark Poole,2019-03-25,2019-03-26,78.0,Conference, MD,Ocean City
+270,270,Mark Sheelor,2019-03-25,2019-03-26,78.0,Conference, MD,Ocean City
+271,271,Mark Blackburn,2017-10-18,2017-10-20,277.07,Conference, MD,Ocean City
+272,272,Mark Janney,2018-07-30,2018-08-03,360.0,Training, NV,Las Vegas
+273,273,Mark Nauman,2018-07-14,2018-07-19,2033.46,Training, TX,Austin
+274,274,Mark Sheelor,2017-03-06,2017-03-08,1411.34,Not Provided, NV,Las Vegas
+275,275,Mark Williford,2016-01-18,2016-01-23,2059.95,Conference, NV,Las Vegas
+276,276,Mary Casciotti,2016-06-22,2016-06-24,873.22,Conference, MD,Ocean City
+277,277,Mary Moltrup-Evans,2018-10-17,2018-10-19,348.02,Conference, MD,Ocean City
+278,278,Matthew Lynch,2017-06-04,2017-06-08,77.44,Conference, NC,Charlotte
+279,279,Matthew Stycos,2015-11-16,2015-11-19,610.9,Conference, MD,Ocean City
+280,280,Matthias Miziorko,2017-05-30,2017-06-02,872.0,Conference, MD,Ocean City
+281,281,Maurice Witt,2017-05-21,2017-05-26,2199.67,Conference, NC,Charlotte
+282,282,Melanie Wenger,2015-07-10,2015-07-12,1266.98,Conference, NC,Charlotte
+283,283,Meo Wenger,2019-07-13,2019-07-15,1841.97,Conference, NV,Las Vegas
+284,284,Melissa Dzenkowski,2017-04-09,2017-04-12,592.15,Conference, MD,Ocean City
+285,285,Melissa Garner,2019-09-25,2019-09-27,699.5,Conference, MD,Ocean City
+286,286,Michael Hartman,2018-11-05,2018-11-08,595.42,Conference, MD,Ocean City
+287,287,Michael Pratt,2019-03-25,2019-03-26,78.0,Training, MD,Ocean City
+288,288,Michael Carin,2017-11-26,2017-12-01,1900.77,Other, NV,Las Vegas
+289,289,Michael Chindblom,2018-03-19,2018-03-20,181.2,Conference, MD,Ocean City
+290,290,Michael Donohue,2015-09-21,2015-09-25,860.42,Conference, TX,Arlington
+291,291,Michael Knuppel,2017-10-01,2017-10-05,5906.8,Conference, FL,Orlando
+292,292,Michael Nesselt,2019-10-15,2019-10-17,803.69,Vendor, CA,Los Angeles
+293,293,Michael Paylor,2019-07-20,2019-07-25,2638.28,Conference, TX,Austin
+294,294,Michael Phillips,2019-08-11,2019-08-15,339.78,Training, PA,Annville
+295,295,Michael Prather,2015-10-12,2015-10-15,545.5,Conference, MD,Ocean City
+296,296,Michael Toney,2015-06-07,2015-06-12,2451.52,Conference, NV,Las Vegas
+297,297,Michael Wahl,2015-10-07,2015-10-09,1319.21,Conference, FL,Orlando
+298,298,Michele Hollander,2016-11-17,2016-11-20,1468.32,Conference, MA,Cambridge
+299,299,Mike Zito,2018-04-21,2018-05-05,6461.82,Training, FL,Orlando
+300,300,Mitchell Dinowitz,2018-05-29,2018-06-01,588.2,Conference, MD,Ocean City
+301,301,Mitsuko Herrera,2017-06-04,2017-06-07,1766.76,Conference, NV,Las Vegas
+302,302,Mitsuko Herrera,2016-04-05,2016-04-07,838.28,Conference, TX,Austin
+303,303,Moise Badou,2017-10-18,2017-10-20,277.07,Conference, MD,Ocean City
+304,304,Moise Badu,2018-10-17,2018-10-19,348.02,Conference, MD,Ocean City
+305,305,Monte Fitch,2018-06-12,2018-06-16,1069.04,Conference, NV,Las Vegas
+306,306,Nancy Moseley,2016-06-22,2016-06-24,851.84,Conference, MD,Ocean City
+307,307,Naomi Lobosco,2019-09-23,2019-09-26,2350.51,Training, CA,Palm Springs
+308,308,Nathan Ratnofksy,2019-03-03,2019-03-09,396.5,Training, NV,Las Vegas
+309,309,Nathan Ratnofsky,2018-08-05,2018-08-11,2454.68,Conference, NV,Las Vegas
+310,310,Neil Bumgarner,2018-11-05,2018-11-08,595.42,Conference, MD,Ocean City
+311,311,Neil Shorb,2018-10-14,2018-10-18,2271.27,Conference, CA,Los Angeles
+312,312,Nicholas Picerno,2018-04-17,2018-04-20,1647.19,Other, NV,Las Vegas
+313,313,Nicholas Bonturi,2015-11-16,2015-11-19,610.9,Conference, MD,Ocean City
+314,314,Odile Brunetto,2016-06-07,2016-06-09,926.36,Conference, GA,Atlanta
+315,315,Otis Matthews,2018-10-24,2018-10-26,658.08,Conference, MD,Ocean City
+316,316,Pam Kuster,2018-10-17,2018-10-19,348.02,Conference, MD,Ocean City
+317,317,Pam Schroeder,2016-04-09,2016-04-14,2699.81,Conference, CA,San Diego
+318,318,Pamela Kuster,2017-10-18,2017-10-20,267.07,Conference, MD,Ocean City
+319,319,Pamela Schroeder,2015-09-30,2015-10-03,473.43,Conference, CA,San Diego
+320,320,Pastora Warnick,2019-10-21,2019-10-24,1476.76,Conference, CA,San Diego
+321,321,Patricia Palomino,2017-06-05,2017-06-09,2346.89,Conference, FL,Orlando
+322,322,Patricia Shepherd,2019-09-25,2019-09-27,706.19,Conference, MD,Ocean City
+323,323,Patrick Hennessy,2018-06-11,2018-06-15,1224.5,Conference, GA,Atlanta
+324,324,Patrick Kepp,2016-10-24,2016-10-26,82.5,Conference, MD,Ocean City
+325,325,Paula Carney,2015-10-28,2015-10-30,675.49,Training, MD,Ocean City
+326,326,Paula Hamill,2017-11-12,2017-11-17,1917.39,Conference, FL,Orlando
+327,327,Peter Davidov,2018-10-05,2018-10-08,1006.82,Conference, FL,Orlando
+328,328,Phil Baker,2017-05-01,2017-05-05,128.08,Conference, MD,Baltimore
+329,329,Phil Roter,2015-09-07,2015-09-12,1789.23,Conference, CA,San Diego
+330,330,Phillip Martin,2019-08-05,2019-08-07,1126.79,Vendor, CA,Los Angeles
+331,331,Priscilla Wong,2015-10-13,2015-10-16,2027.24,Conference, CA,San Diego
+332,332,Randy Kucsan,2017-11-12,2017-11-17,1945.03,Conference, FL,Orlando
+333,333,Rashid Abramov,2019-09-25,2019-09-27,692.6,Conference, MD,Ocean City
+334,334,Raymond Crowel,2019-08-14,2019-08-17,1476.56,Conference, MD,Ocean City
+335,335,Rebecca Jackson,2018-04-23,2018-04-27,1705.62,Conference, NV,Las Vegas
+336,336,Rekha Menon,2017-12-15,2017-12-15,55.64,Other, NC,Charlotte
+337,337,Reza Zarif,2019-09-28,2019-10-03,4616.75,Conference, CA,San Diego
+338,338,Rhona Jones,2018-10-17,2018-10-19,348.02,Conference, MD,Ocean City
+339,339,Richard Dorsey,2018-09-19,2018-09-21,780.23,Conference, MD,Ocean City
+340,340,Richard Harris,2016-04-13,2016-04-22,1402.78,Conference, GA,Atlanta
+341,341,Richard Reynolds,2017-05-22,2017-05-25,1440.19,Other, NV,Las Vegas
+342,342,Robert  Ravida,2018-05-28,2018-06-01,590.95,Other, MD,Ocean City
+343,343,Robert  Sheehan,2018-11-05,2018-11-08,619.42,Conference, MD,Ocean City
+344,344,Robert Bolesta,2016-05-31,2016-06-03,630.68,Conference, MD,Ocean City
+345,345,Robert Faas,2019-05-06,2019-05-10,1430.87,Training, CA,San Diego
+346,346,Robert Gonzales,2019-10-23,2019-10-25,693.2,Conference, MD,Ocean City
+347,347,Robert Green,2016-05-12,2016-05-14,461.5,Conference, FL,Orlando
+348,348,Robert Hagedoorn,2016-09-10,2016-09-13,1985.66,Conference, GA,Atlanta
+349,349,Robert Johnson,2017-04-09,2017-04-12,584.83,Conference, MD,Ocean City
+350,350,Robert Kamensky,2019-03-25,2019-03-26,78.0,Conference, MD,Ocean City
+351,351,Robert Monroe,2018-09-18,2018-09-22,449.48,Conference, MD,Ocean City
+352,352,Robert Ravida,2019-09-29,2019-10-03,1534.7,Conference, CO,Aurora
+353,353,Rod Brown,2015-09-23,2015-09-26,955.93,Conference, MD,Ocean City
+354,354,Ruben  Rosario,2018-04-15,2018-04-18,497.43,Conference, MD,Ocean City
+355,355,Ruben Rosario,2018-10-03,2018-10-07,2009.58,Other, FL,Orlando
+356,356,Russ Hamill,2017-09-10,2017-09-13,1068.91,Conference, MD,Ocean City
+357,357,Russ Hamill,2018-10-03,2018-10-09,2410.1,Other, FL,Orlando
+358,358,Russell Hamill,2016-10-12,2016-10-18,4745.2,Other, CA,San Diego
+359,359,Sara Morningstar,2019-08-14,2019-08-15,836.86,Conference, MD,Ocean City
+360,360,Scott Bragunier,2019-08-12,2019-08-15,576.29,Training, PA,Annville
+361,361,Scott Coble,2016-10-15,2016-10-21,5529.8,Conference, FL,Orlando
+362,362,Scott Greene,2016-06-09,2016-06-10,545.38,Conference, MD,Ocean City
+363,363,Scott Davis,2017-03-06,2017-03-08,1361.34,Other, NV,Las Vegas
+364,364,Scott Webster,2018-04-22,2018-05-06,3755.0,Training, FL,Orlando
+365,365,Sean Renauer,2018-10-06,2018-10-10,44.25,Conference, FL,Orlando
+366,366,Sean Chapman,2018-11-05,2018-11-08,595.42,Conference, MD,Ocean City
+367,367,Sean D'Costa,2018-10-20,2018-10-24,3963.65,Conference, NV,Las Vegas
+368,368,Sean Gagen,2016-05-11,2016-05-14,1854.65,Conference, NV,Las Vegas
+369,369,Sean Reilly,2017-04-09,2017-04-12,563.03,Conference, MD,Ocean City
+370,370,Sean Renauer,2017-06-20,2017-06-23,1479.36,Training, NV,Las Vegas
+371,371,Sean Renauer,2019-09-29,2019-10-03,1408.81,Conference, CO,Aurora
+372,372,Shane Kirk,2015-11-16,2015-11-19,610.9,Conference, MD,Ocean City
+373,373,Shannon Farney,2016-09-18,2016-09-23,2176.45,Conference, TX,Austin
+374,374,Shawn Lattanzio,2016-06-09,2016-06-10,381.0,Conference, MD,Ocean City
+375,375,Shawn Stokes,2015-06-27,2015-07-01,3175.5,Conference, NV,Las Vegas
+376,376,Sheila Sugrue,2019-03-25,2019-03-26,78.0,Training, MD,Ocean City
+377,377,Shelby Zelonis,2017-07-09,2017-07-15,2485.13,Conference, CA,San Diego
+378,378,Shelby Zelonis,2019-07-07,2019-07-12,2307.9,Conference, CA,San Diego
+379,379,Sherif Almiggabber,2019-10-13,2019-10-16,428.95,Conference, MD,Ocean City
+380,380,Shing Yuen,2018-03-25,2018-03-27,82.5,Other, MD,Ocean City
+381,381,Stacy Jones,2017-11-01,2017-11-04,241.5,Training, GA,Atlanta
+382,382,Stephen Hardesty,2019-05-06,2019-05-10,762.52,Training, CA,San Diego
+383,383,Sunyoung Kim,2018-05-13,2018-05-17,2165.14,Conference, NC,Charlotte
+384,384,Suzanne Renauer,2016-09-18,2016-09-21,2414.45,Conference, CO,Westminster
+385,385,Tamara Maldonado,2017-10-19,2017-10-20,73.5,Not Provided, MD,Ocean City
+386,386,Tara Wimmer,2015-09-15,2015-09-17,434.25,Conference, FL,Orlando
+387,387,Theresa Durham,2015-08-03,2015-08-08,2357.21,Conference, CA,San Diego
+388,388,Thomas Didone,2018-10-04,2018-10-10,2199.45,Conference, FL,Orlando
+389,389,Toms Didone,2019-04-24,2019-04-26,821.32,Training, FL,Orlando
+390,390,Thomas Jordan,2016-10-12,2016-10-18,3274.3,Conference, CA,San Diego
+391,391,Thomas Laycock,2015-10-13,2015-10-16,2034.98,Conference, CA,San Diego
+392,392,Thomas Mullen,2019-06-03,2019-06-07,1233.38,Conference, FL,Orlando
+393,393,Thomas Mull,2018-11-02,2018-11-07,3543.86,Conference, NV,Las Vegas
+394,394,Tim Beardsley,2018-03-20,2018-03-23,605.19,Training, MD,Ocean City
+395,395,Tim Beards,2019-03-12,2019-03-15,550.79,Conference, MD,Ocean City
+396,396,Tim Burns,2018-01-11,2018-01-14,2045.77,Conference, CA,San Diego
+397,397,Tim Kwaloff,2019-03-25,2019-03-26,113.95,Conference, MD,Ocean City
+398,398,Timothy Burns,2019-01-09,2019-01-13,2668.68,Conference, TX,Austin
+399,399,Timothy Cupples,2017-09-20,2017-09-23,898.11,Conference, MD,Ocean City
+400,400,Timothy Firestine,2018-09-26,2018-09-29,1187.71,Conference, FL,Orlando
+401,401,Timothy Cupples,2015-09-23,2015-09-26,821.32,Conference, MD,Ocean City
+402,402,Timothy Ray,2017-08-29,2017-08-31,30.34,Other, PA,Annville
+403,403,Todd Harper,2016-10-15,2016-10-21,5650.16,Conference, FL,Orlando
+404,404,Tom Henry,2018-03-04,2018-03-10,4626.29,Conference, FL,Orlando
+405,405,Tony Galladora,2017-05-22,2017-05-26,972.33,Other, NC,Charlotte
+406,406,Trent Bishop,2016-09-18,2016-09-21,2849.13,Conference, CO,Westminster
+407,407,Troy Tippett,2018-08-05,2018-08-09,4616.69,Training, FL,Orlando
+408,408,Tyler Wellen,2016-10-24,2016-10-26,111.5,Conference, MD,Ocean City
+409,409,Tyrone Dement,2018-02-19,2018-02-23,265.5,Conference, NC,Charlotte
+410,410,Victoria Lewis,2018-05-16,2018-05-18,2355.52,Conference, TX,Austin
+411,411,Vincent Romano,2016-10-24,2016-10-26,82.5,Conference, MD,Ocean City
+412,412,Wins Hinde,2016-06-17,2016-06-22,352.0,Conference, MD,Ocean City
+413,413,Warren Jensen,2017-11-06,2017-11-09,502.45,Conference, MD,Ocean City
+414,414,Warp Jensen,2019-03-25,2019-03-26,78.0,Conference, MD,Ocean City
+415,415,Whitney Kujawa,2017-11-06,2017-11-09,567.0,Conference, MD,Ocean City
+416,416,William Kinna,2017-05-21,2017-05-26,2163.67,Conference, NC,Charlotte
+417,417,Xin Qi,2019-08-13,2019-08-17,2107.51,Conference, MD,Ocean City
